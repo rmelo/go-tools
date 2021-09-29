@@ -1,0 +1,2 @@
+GOV=$(asdf where golang)
+export GOROOT=$GOV/go
